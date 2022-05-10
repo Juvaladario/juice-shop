@@ -43,7 +43,7 @@ hello-world-windows:
     - name: Print hello world
       run: echo "Hello world Windows"
     
-  hello-world-macos:
+hello-world-macos:
     runs-on: macos-latest
     
     steps:
